@@ -1,0 +1,14 @@
+Package: gmm
+Type: Package
+Title: Gaussian Mixture Model
+Version: 0.1.0
+Author: Gregory Bopp
+Maintainer: <none@nowhere.org>
+Description: Simple Gaussian Mixture Model Implementation
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+	purrr,
+	magrittr
+RoxygenNote: 7.1.2
